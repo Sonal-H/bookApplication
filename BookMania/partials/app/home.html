@@ -1,0 +1,35 @@
+
+		<div ng-include="'partials/app/header.html'"></div>
+		<div class="wrapper-div">
+		<div class="row">
+			<div class="col-lg-2 col-md-3 col-sm-4 col-xs-4">
+				<label class="pull-right">Select Category</label>
+			</div>
+			<div class="col-lg-4 col-md-5 col-sm-6 col-xs-6">
+			<div class="row">
+			<div class="col-lg-10 col-md-10 col-sm-10 col-xs-10">
+			<div class="form-group">
+  <select class="form-control" id="booksCategory" ng-model="booksCategorySelected">
+  <option value="">Category</option>
+    <option value="fashion-manners-and-customs">Fashion Manners and Customs</option>
+    <option value="hardcover-fiction">Hardcover Fiction</option>
+    <option value="expeditions-disasters-and-adventures">Expeditions Disasters and Adventures</option>
+  </select>
+</div>
+</div>
+<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+<button type="button" class="btn btn-default" ng-click=fetchResultsBasedOnCategory()>GO</button>
+</div>
+</div>
+			</div>
+		</div>
+		<div class="row notification-msg text-muted" ng-show="gridOptions.data.length">
+			Click on any book's name to view its details.
+		</div>
+		<div id="grid1" ui-grid="gridOptions" ui-grid-selection class="grid">
+			<div class="watermark text-muted" ng-show="!gridOptions.data.length">No data available</div>
+		</div>
+</div>
+		<div ng-if="isBookDetails" ng-include="'partials/app/bookDetails.html'"></div>
+		<div ng-include="'partials/app/footer.html'"></div>
+	

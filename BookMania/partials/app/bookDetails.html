@@ -1,0 +1,29 @@
+<modal-dialog show='isBookDetails'>
+  <div class="row" style="text-align:center;">
+  	<img class="img-cover" src="images/bookcover.jpg" height="200px">
+  </div>
+  <div class="row">
+  	<div class="col-lg-6"><label class="pull-right">Name</label></div>
+  	<div class="col-lg-6">{{bookDetails.book_details[0].title}}</div>
+  </div>
+  <div class="row">
+  	<div class="col-lg-6"><label class="pull-right">Author</label></div>
+  	<div class="col-lg-6">{{bookDetails.book_details[0].author}}</div>
+  </div>
+  <div class="row">
+  	<div class="col-lg-6"><label class="pull-right">Description</label></div>
+  	<div class="col-lg-6">{{bookDetails.book_details[0].description}}</div>
+  </div>
+  <div class="row">
+  	<div class="col-lg-6"><label class="pull-right">Category</label></div>
+  	<div class="col-lg-6">{{bookDetails.display_name}}</div>
+  </div>
+  <div class="row">
+  	<div class="col-lg-6"><label class="pull-right">Publisher</label></div>
+  	<div class="col-lg-6">{{bookDetails.book_details[0].publisher}}</div>
+  </div>
+  <div class="row">
+  	<div class="col-lg-6"><label class="pull-right">Price</label></div>
+  	<div class="col-lg-6">{{bookDetails.book_details[0].price}}</div>
+  </div>
+</modal-dialog>

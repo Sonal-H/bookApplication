@@ -1,0 +1,680 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2018 The New York Times Company.  All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2018-01-12T14:38:03-05:00",
+  "results": [
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2018-01-06",
+      "published_date": "2018-01-21",
+      "rank": 15,
+      "rank_last_week": 0,
+      "weeks_on_list": 1,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/Power-Naomi-Alderman/dp/0316547611?tag=NYTBS-20",
+      "isbns": [
+        {
+          "isbn10": "0316547611",
+          "isbn13": "9780316547611"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE POWER",
+          "description": "Young women around the world suddenly have the ability to generate harmful electric shocks.",
+          "contributor": "by Naomi Alderman",
+          "author": "Naomi Alderman",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Little, Brown",
+          "primary_isbn13": "9780316547611",
+          "primary_isbn10": "0316547611"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2018-01-06",
+      "published_date": "2018-01-21",
+      "rank": 14,
+      "rank_last_week": 8,
+      "weeks_on_list": 8,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/Game-Will-Robie-David-Baldacci-ebook/dp/B06WGTZXG7?tag=NYTBS-20",
+      "isbns": [
+        {
+          "isbn10": "1455586609",
+          "isbn13": "9781455586608"
+        },
+        {
+          "isbn10": "1538760282",
+          "isbn13": "9781538760284"
+        },
+        {
+          "isbn10": "1455586633",
+          "isbn13": "9781455586639"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "END GAME",
+          "description": "Jessica Reel and Will Robie fight a dangerous adversary in Colorado.",
+          "contributor": "by David Baldacci",
+          "author": "David Baldacci",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Grand Central",
+          "primary_isbn13": "9781538745595",
+          "primary_isbn10": "None"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2018-01-06",
+      "published_date": "2018-01-21",
+      "rank": 13,
+      "rank_last_week": 0,
+      "weeks_on_list": 47,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "http://www.amazon.com/Gentleman-Moscow-Novel-Amor-Towles/dp/0670026190?tag=NYTBS-20",
+      "isbns": [
+        {
+          "isbn10": "0670026190",
+          "isbn13": "9780670026197"
+        },
+        {
+          "isbn10": "0735221677",
+          "isbn13": "9780735221673"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "A GENTLEMAN IN MOSCOW",
+          "description": "A Russian count undergoes 30 years of house arrest.",
+          "contributor": "by Amor Towles",
+          "author": "Amor Towles",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Viking",
+          "primary_isbn13": "9780670026197",
+          "primary_isbn10": "0670026190"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "https://www.nytimes.com/2016/09/25/books/review/amor-towles-gentleman-in-moscow.html",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2018-01-06",
+      "published_date": "2018-01-21",
+      "rank": 12,
+      "rank_last_week": 6,
+      "weeks_on_list": 8,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/Artemis-Novel-Andy-Weir/dp/0553448129?tag=NYTBS-20",
+      "isbns": [
+        {
+          "isbn10": "0553448129",
+          "isbn13": "9780553448122"
+        },
+        {
+          "isbn10": "0553448137",
+          "isbn13": "9780553448139"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "ARTEMIS",
+          "description": "A small-time smuggler living in a lunar colony schemes to pay off an old debt by pulling off a challenging heist.",
+          "contributor": "by Andy Weir",
+          "author": "Andy Weir",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Crown",
+          "primary_isbn13": "9780553448122",
+          "primary_isbn10": "0553448129"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2018-01-06",
+      "published_date": "2018-01-21",
+      "rank": 11,
+      "rank_last_week": 7,
+      "weeks_on_list": 5,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/Year-One-Chronicles-Book/dp/1250122953?tag=NYTBS-20",
+      "isbns": [
+        {
+          "isbn10": "1250122953",
+          "isbn13": "9781250122957"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "YEAR ONE",
+          "description": "When a pandemic strikes and the world spins into chaos, several travelers head west to find a new life.",
+          "contributor": "by Nora Roberts",
+          "author": "Nora Roberts",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "St. Martin's",
+          "primary_isbn13": "9781250122957",
+          "primary_isbn10": "1250122953"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2018-01-06",
+      "published_date": "2018-01-21",
+      "rank": 10,
+      "rank_last_week": 13,
+      "weeks_on_list": 16,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/Before-We-Were-Yours-Novel/dp/0425284689?tag=NYTBS-20",
+      "isbns": [
+        {
+          "isbn10": "0425284689",
+          "isbn13": "9780425284681"
+        },
+        {
+          "isbn10": "0425284697",
+          "isbn13": "9780425284698"
+        },
+        {
+          "isbn10": "1524797308",
+          "isbn13": "9781524797300"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "BEFORE WE WERE YOURS",
+          "description": "A South Carolina lawyer learns about the questionable practices of a Tennessee orphanage.",
+          "contributor": "by Lisa Wingate",
+          "author": "Lisa Wingate",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Ballantine",
+          "primary_isbn13": "9780425284681",
+          "primary_isbn10": "0425284689"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2018-01-06",
+      "published_date": "2018-01-21",
+      "rank": 9,
+      "rank_last_week": 4,
+      "weeks_on_list": 9,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/Midnight-Line-Jack-Reacher-Novel-ebook/dp/B06WP486XH?tag=NYTBS-20",
+      "isbns": [
+        {
+          "isbn10": "0399593489",
+          "isbn13": "9780399593482"
+        },
+        {
+          "isbn10": "0399593497",
+          "isbn13": "9780399593499"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE MIDNIGHT LINE",
+          "description": "Jack Reacher tracks down the owner of a pawned West Point class ring and stumbles upon a large criminal enterprise.",
+          "contributor": "by Lee Child",
+          "author": "Lee Child",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Delacorte",
+          "primary_isbn13": "9780399593482",
+          "primary_isbn10": "0399593489"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "https://www.nytimes.com/2017/11/08/books/review-midnight-line-jack-reacher-lee-child.html",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2018-01-06",
+      "published_date": "2018-01-21",
+      "rank": 8,
+      "rank_last_week": 3,
+      "weeks_on_list": 7,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/People-vs-Alex-Cross/dp/0316273902?tag=NYTBS-20",
+      "isbns": [
+        {
+          "isbn10": "0316273902",
+          "isbn13": "9780316273909"
+        },
+        {
+          "isbn10": "0316508810",
+          "isbn13": "9780316508810"
+        },
+        {
+          "isbn10": "1538728184",
+          "isbn13": "9781538728185"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE PEOPLE VS. ALEX CROSS",
+          "description": "Detective Cross takes on a case even though he has been suspended from the department and taken to federal court to stand trial on murder charges.",
+          "contributor": "by James Patterson",
+          "author": "James Patterson",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Little, Brown",
+          "primary_isbn13": "9780316273909",
+          "primary_isbn10": "0316273902"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2018-01-06",
+      "published_date": "2018-01-21",
+      "rank": 7,
+      "rank_last_week": 0,
+      "weeks_on_list": 1,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/Unbound-Stone-Barrington-Novel-Stuart-ebook/dp/B071YC1VHD?tag=NYTBS-20",
+      "isbns": [
+        {
+          "isbn10": "0735217173",
+          "isbn13": "9780735217171"
+        },
+        {
+          "isbn10": "073521719X",
+          "isbn13": "9780735217195"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "UNBOUND",
+          "description": "The 44th book in the Stone Barrington series.",
+          "contributor": "by Stuart Woods",
+          "author": "Stuart Woods",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Putnam",
+          "primary_isbn13": "9780735217171",
+          "primary_isbn10": "0735217173"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2018-01-06",
+      "published_date": "2018-01-21",
+      "rank": 6,
+      "rank_last_week": 0,
+      "weeks_on_list": 1,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/Robicheaux-Novel-James-Lee-Burke-ebook/dp/B074ZCQSZ6?tag=NYTBS-20",
+      "isbns": [
+        {
+          "isbn10": "1501176846",
+          "isbn13": "9781501176845"
+        },
+        {
+          "isbn10": "1501176854",
+          "isbn13": "9781501176852"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "ROBICHEAUX",
+          "description": "A bereaved detective confronts his past and works to clear his name when he becomes a suspect during an investigation into the murder of the man who killed his wife.",
+          "contributor": "by James Lee Burke",
+          "author": "James Lee Burke",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Simon & Schuster",
+          "primary_isbn13": "9781501176845",
+          "primary_isbn10": "1501176846"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2018-01-06",
+      "published_date": "2018-01-21",
+      "rank": 5,
+      "rank_last_week": 15,
+      "weeks_on_list": 3,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/Sing-Unburied-Novel-Jesmyn-Ward/dp/1501126067?tag=NYTBS-20",
+      "isbns": [
+        {
+          "isbn10": "1501126067",
+          "isbn13": "9781501126062"
+        },
+        {
+          "isbn10": "1501126091",
+          "isbn13": "9781501126093"
+        },
+        {
+          "isbn10": "1501176668",
+          "isbn13": "9781501176661"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "SING, UNBURIED, SING",
+          "description": "A 13-year-old boy comes of age in Mississippi while his black mother takes him and his toddler sister to pick up their white father, who is getting released from the state penitentiary.",
+          "contributor": "by Jesmyn Ward",
+          "author": "Jesmyn Ward",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Scribner",
+          "primary_isbn13": "9781501126062",
+          "primary_isbn10": "1501126067"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "https://www.nytimes.com/2017/09/22/books/review/tracy-k-smith-on-sing-unburied-sing-jesmyn-ward.html",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2018-01-06",
+      "published_date": "2018-01-21",
+      "rank": 4,
+      "rank_last_week": 5,
+      "weeks_on_list": 16,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/Little-Fires-Everywhere-Celeste-Ng-ebook/dp/B01N4VW75U?tag=NYTBS-20",
+      "isbns": [
+        {
+          "isbn10": "0735224293",
+          "isbn13": "9780735224292"
+        },
+        {
+          "isbn10": "0735224307",
+          "isbn13": "9780735224308"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "LITTLE FIRES EVERYWHERE",
+          "description": "An artist upends a quiet town outside Cleveland.",
+          "contributor": "by Celeste Ng",
+          "author": "Celeste Ng",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Penguin Press",
+          "primary_isbn13": "9780735224292",
+          "primary_isbn10": "0735224293"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "https://www.nytimes.com/2017/09/25/books/review/little-fires-everywhere-celeste-ng.html",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2018-01-06",
+      "published_date": "2018-01-21",
+      "rank": 3,
+      "rank_last_week": 2,
+      "weeks_on_list": 11,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/Rooster-Bar-John-Grisham-ebook/dp/B01N6YQAPS?tag=NYTBS-20",
+      "isbns": [
+        {
+          "isbn10": "0385541171",
+          "isbn13": "9780385541176"
+        },
+        {
+          "isbn10": "038554118X",
+          "isbn13": "9780385541183"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE ROOSTER BAR",
+          "description": "Three students at a sleazy for-profit law school hope to expose the student-loan banker who runs it.",
+          "contributor": "by John Grisham",
+          "author": "John Grisham",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Doubleday",
+          "primary_isbn13": "9780385541176",
+          "primary_isbn10": "0385541171"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2018-01-06",
+      "published_date": "2018-01-21",
+      "rank": 2,
+      "rank_last_week": 1,
+      "weeks_on_list": 14,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/Origin-Novel-Dan-Brown-ebook/dp/B01LY7FD0D?tag=NYTBS-20",
+      "isbns": [
+        {
+          "isbn10": "0385514239",
+          "isbn13": "9780385514231"
+        },
+        {
+          "isbn10": "0385542690",
+          "isbn13": "9780385542692"
+        },
+        {
+          "isbn10": "0525434305",
+          "isbn13": "9780525434306"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "ORIGIN",
+          "description": "A symbology professor goes on a perilous quest with a beautiful museum director.",
+          "contributor": "by Dan Brown",
+          "author": "Dan Brown",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Doubleday",
+          "primary_isbn13": "9780385514231",
+          "primary_isbn10": "0385514239"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    },
+    {
+      "list_name": "Hardcover Fiction",
+      "display_name": "Hardcover Fiction",
+      "bestsellers_date": "2018-01-06",
+      "published_date": "2018-01-21",
+      "rank": 1,
+      "rank_last_week": 0,
+      "weeks_on_list": 1,
+      "asterisk": 0,
+      "dagger": 0,
+      "amazon_product_url": "https://www.amazon.com/Woman-Window-Novel-J-Finn/dp/0062678418?tag=NYTBS-20",
+      "isbns": [
+        {
+          "isbn10": "0062678418",
+          "isbn13": "9780062678416"
+        },
+        {
+          "isbn10": "0062678442",
+          "isbn13": "9780062678447"
+        }
+      ],
+      "book_details": [
+        {
+          "title": "THE WOMAN IN THE WINDOW",
+          "description": "A recluse who drinks heavily and takes prescription drugs may have witnessed a crime across from her Harlem townhouse.",
+          "contributor": "by A.J. Finn",
+          "author": "AJ Finn",
+          "contributor_note": "",
+          "price": 0,
+          "age_group": "",
+          "publisher": "Morrow",
+          "primary_isbn13": "9780062678416",
+          "primary_isbn10": "0062678418"
+        }
+      ],
+      "reviews": [
+        {
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": ""
+        }
+      ]
+    }
+  ]
+}
